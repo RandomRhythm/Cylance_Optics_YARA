@@ -1,2 +1,2 @@
-# Cylance_Optics_YARA
-PoC YARA scanner for Cylance Optics using .net YARA DLL via IronPython
+# CylanceOPTICS_YARA
+PoC YARA scanner example for CylanceOPTICS using [.net YARA DLL](https://github.com/Microsoft/libyara.NET) via IronPython
